@@ -2,6 +2,9 @@
 GTZAN/
 GTSRB/
 
+# Streamlit cache
+.streamlit/
+
 # Python
 __pycache__/
 *.py[cod]
